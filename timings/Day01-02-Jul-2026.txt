@@ -4,7 +4,7 @@
  30 mins coding
  1 hours English speaking/watching movies
  2 hours - 2 set question
-
+ 1 hours - pactice linux
 #Tomorrow's Task
 
  ELK, Kafka, Terraform reviiosn
