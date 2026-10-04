@@ -5,6 +5,8 @@
  1 hours English speaking/watching movies
  2 hours - 2 set question
  1 hours - pactice linux
+ I did not attend today class
+
 #Tomorrow's Task
 
  ELK, Kafka, Terraform reviiosn
