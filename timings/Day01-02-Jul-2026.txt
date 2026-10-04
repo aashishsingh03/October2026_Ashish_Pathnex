@@ -6,7 +6,7 @@
  2 hours - 2 set question
  1 hours - pactice linux
  I did not attend today class
-
+ set review approval
 #Tomorrow's Task
 
  ELK, Kafka, Terraform reviiosn
